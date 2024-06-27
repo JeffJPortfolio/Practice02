@@ -2,7 +2,7 @@ package com.javaex.practice;
 
 import java.util.Scanner;
 
-public class Ex14 {
+public class Ex21 {
 
 	public static void main(String[] args) {
 		int numb, team;
@@ -25,7 +25,6 @@ public class Ex14 {
 		else {
 			System.out.print("잘못돈 사번 입니다");
 		}
-			
 			
 			
 		sc.close();
